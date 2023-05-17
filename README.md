@@ -20,7 +20,7 @@
 ### The problem
 
 Nowadays with an ubiquitous availablity of lighting devices , such as the most comon and known LED and also the less known laser diodes, is possible to improve immensly the quality of indoor ilumination in a room , home or office. 
-Not only that, enable mitagtion of any kind of light aggression that may be emmited from outside of a home or office.  For imstance laser pointers across the street or even a full laser projector doing video prohecton from the other side of a street. 
+Not only that, enable mitagtion of any kind of light aggression that may be emmited from outside of a home or office. For imstance, laser pointers across the street or even a full laser projectors doing video projection from the other side of a street. 
 
 
 ### ideia
