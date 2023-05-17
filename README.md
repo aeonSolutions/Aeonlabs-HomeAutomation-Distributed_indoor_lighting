@@ -25,7 +25,7 @@ Not only that, enable mitagtion of any kind of light aggression that may be emmi
 
 ### ideia
 
-The main ideia on this project is to provide a wider range of indoor light quality by using an alternative way of lighting instalation using [adressable LED](https://s.click.aliexpress.com/e/_Dkg2mch)  and also [micro LED](https://s.click.aliexpress.com/e/_DeuCeEl)  for complementing lighting of a room.
+The main ideia on this project is to provide a wider range of indoor light quality by using an alternative way of lighting instalation using [adressable LED](https://s.click.aliexpress.com/e/_Dkg2mch)  and also [micro LED](https://s.click.aliexpress.com/e/_DeuCeEl)  for complementing lighting of a room while at the same time provide ligting conditons for a better "emotional health". 
 
 
 <br>
