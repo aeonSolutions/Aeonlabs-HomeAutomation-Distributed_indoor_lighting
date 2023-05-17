@@ -17,6 +17,10 @@
 
 # Distributed Indoor Lighting 
 
+**ideia**
+The main ideia on this project is to provide a wider range of indoor light quality by using an alternative way of lighting instalation using [adressable LED](https://s.click.aliexpress.com/e/_Dkg2mch)  and also [micro LED](https://s.click.aliexpress.com/e/_DeuCeEl)  for complementing lighting of a room.
+
+
 <br>
 
 ### Current Status of Development
