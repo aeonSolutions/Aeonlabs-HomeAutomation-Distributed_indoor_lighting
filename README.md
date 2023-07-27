@@ -32,6 +32,8 @@ The main ideia on this project is to provide a wider range of indoor light quali
 
 ### Current Status of Development
 
+**1st iteration**
+
 The current status of development of this project has now the following preliminary conclusions:
 
 - A dressing room with an area of 20-25 m2 and with a glass window where the sun shines only in early morning can be powered 
@@ -49,6 +51,11 @@ Additional energy savings can be achieved, if installed with a "home occupancy m
 - to provide an optimized electricity usage schedule to each of the occupants
 - to detect empty an room/ compartment
 - to regulate light intensity during evenings and at night before going to bed.  Synchronizing with the human biological clock cycles.   
+
+
+**2nd iteration**
+
+To optimize power storage , is necessary to have individual "power walls" according to output voltage and power requirements than to have a single bigger battery pack.  
 
 <br>
 
