@@ -34,11 +34,19 @@ The main ideia on this project is to provide a wider range of indoor light quali
 
 **1st iteration**
 
-The current status of development of this project has now the following preliminary conclusions:
+From the 1st iteration the following preliminary conclusions were made:
 
 - A dressing room with an area of 20-25 m2 and with a glass window where the sun shines only in early morning can be powered 
   - by a single photovoltaic 6V DC solar cell for micro LED illumination usages of up to 5 to 10min a day and at night. 
 - A bathroom with an area of 20-25 m2 , indoors no glass windows , with glossy tile walls , micro LED illumination produces the best light
+
+**2nd iteration**
+
+The current status of development of this project has now the following preliminary conclusions:
+
+To optimize power storage , is necessary to have individual "power walls" according to output voltage and power requirements than to have a single bigger battery pack.  
+
+<br>
 
 Initially i was aiming at an additional 10 euro a month savings on the utilities bill , however, recent prototypes show that is possible to repurpose any apartment on any big city to become independent of the main power grid for the following home appliances :
 
@@ -51,12 +59,6 @@ Additional energy savings can be achieved, if installed with a "home occupancy m
 - to provide an optimized electricity usage schedule to each of the occupants
 - to detect empty an room/ compartment
 - to regulate light intensity during evenings and at night before going to bed.  Synchronizing with the human biological clock cycles.   
-
-
-**2nd iteration**
-
-To optimize power storage , is necessary to have individual "power walls" according to output voltage and power requirements than to have a single bigger battery pack.  
-
 <br>
 
 ## Compatibility
